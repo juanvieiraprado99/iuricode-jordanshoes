@@ -4,7 +4,7 @@
 
 <p>Você pode encontrar os desafios no <a href="https://discord.com/invite/QevDJqCzaY">Discord</a> da Codelândia.</p>
 
-<p><a href="">Site em funcionamento.</a>
+<p><a href="https://jordanshoescodelandia.netlify.app/">Site em funcionamento.</a>
 
 ## Ferramentas e Linguagens
 
